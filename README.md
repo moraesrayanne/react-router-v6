@@ -2,6 +2,14 @@
 
 ![React Router](https://reactrouter.com/ogimage.png)
 
+<div align="center">
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+</div>
+
 Projeto criado para aplicar os conceitos aprendidos ao seguir a documentação oficial do React Router v6. O objetivo é aprimorar o entendimento dessa nova versão e explorar suas funcionalidades, como configuração de rotas, navegação e outros recursos essenciais.
 
 ## Descrição
