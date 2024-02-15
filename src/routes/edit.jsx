@@ -52,15 +52,13 @@ export default function EditContact() {
       </label>
       <label>
         <span>Notes</span>
-        <textarea
-          name="notes"
-          defaultValue={contact.notes}
-          rows={6}
-        />
+        <textarea name="notes" defaultValue={contact.notes} rows={6} />
       </label>
       <p>
         <button type="submit">Save</button>
-        <button type="button" onClick={() => navigate(-1)}>Cancel</button>
+        <button type="button" onClick={() => navigate(-1)}>
+          Cancel
+        </button>
       </p>
     </Form>
   );
